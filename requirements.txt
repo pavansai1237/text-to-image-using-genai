@@ -1,0 +1,8 @@
+%%writefile requirements.txt
+torch
+diffusers
+transformers
+accelerate
+safetensors
+scipy
+gradio
